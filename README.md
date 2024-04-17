@@ -31,7 +31,7 @@ Official git repository: https://github.com/HEPSYCODE/HEPSYCODE-AIDOaRt
  
 ### INSTALLATION
  1. Download Eclipse Modelling Tool: [https://www.eclipse.org/downloads/eclipse-packages/](https://www.eclipse.org/downloads/packages/)
- 2. Cloning HEPSYCODE from https://github.com/HEPSYCODE/HEPSYCODE-AIDOaRt
+ 2. Cloning HEPSYCODE from https://github.com/HEPSYCODE/HEPSYCODE-Eclipse-GUI
  3. Import in Eclipse HEPSYCODE projects present in the folder and run a separate Eclipse application to run and debug HEPSYCODE plug-in
  4. Install Systemc library (it is recommended version 2.3.3)
  5. Go to /home/.bashrc and insert the path of Systemc (folder lib-linux and include) the names of the variable must be SYSTEMCPATHLIB and SYSTEMCPATHINCLUDE for example:
