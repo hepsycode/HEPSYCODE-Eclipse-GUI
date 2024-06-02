@@ -73,7 +73,7 @@ We currently support:
  2. Issues on bitbucket.org
  
 ## Getting Started Guidelines
-You can find getting started guidelines in the docs folder or on the official HEPSYCODE website:: www.HEPSYCODE.com  
+You can find getting started guidelines in the docs folder or on the official HEPSYCODE website: www.HEPSYCODE.com  
 
 To get started with HEPSYCODE, you can:
 
@@ -81,7 +81,7 @@ To get started with HEPSYCODE, you can:
  2. Import the plugin projects in the HEPSYCODE-GUI directory in Eclipse.
  3. Use the HEPSYCODE Sirius-based tool to create and edit your HEPSYCODE models.
  4. Generate code from your HEPSYCODE models using the HEPSYCODE M2M XText transformation code.
- 5. Simulate your HEPSYCODE models using the HEPSYCODE HEPSIM2 simulator. Example are available in the HEPSYCODE-Workbench folder.
+ 5. Simulate your HEPSYCODE models using the HEPSYCODE HEPSIM2 simulator. Examples are available in the HEPSYCODE-Workbench folder.
 
 ## Additional information
 Research publications are available on http://www.HEPSYCODE.com/ and http://www.pomante.net/sito_gg/Publications.htm
